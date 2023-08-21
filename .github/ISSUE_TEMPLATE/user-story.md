@@ -1,12 +1,10 @@
 ---
 name: User Story
-about: Default user story template
-title: User Story <TITLE>
+about: This is our default user story template
+title: USER STORY <TITLE>
 labels: ''
 assignees: ''
 
 ---
 
-In order to **receive benefit** 
-as a **role**, 
-I can **goal / desire**
+As a **ROLE** I can **CAPABILITY** so that **RECEIVED BENEFIT**
